@@ -71,33 +71,33 @@ experiences:
         time: Sep 2023 - Present
         Location: Northwestern University
         details: |
-        - Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
-        - Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
-        - Investigate the impact of pre-trained foundational models to the performance when combined with MIL for molecular subtype classification.
-        - Incorporate multi-scale representations of digital path imaging data to enhance the model’s ability to predict molecular subtypes in PAM50 dataset.
-        - Drafted a paper including an in-depth comparison of the proposed method with current state-of-the-art techniques, demonstrating its effectiveness through detailed ablation studies.
-        - Implement attention gates and residual connections within the U-Net architecture to better capture intricate tumor boundaries and improve segmentation accuracy, especially for small or complex regions.
-        - Implement weakly supervised methods for analyzing pathology images to predict two-year survival of patients diagnosed with brain tumors.
+            - Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
+            - Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
+            - Investigate the impact of pre-trained foundational models to the performance when combined with MIL for molecular subtype classification.
+            - Incorporate multi-scale representations of digital path imaging data to enhance the model’s ability to predict molecular subtypes in PAM50 dataset.
+            - Drafted a paper including an in-depth comparison of the proposed method with current state-of-the-art techniques, demonstrating its effectiveness through detailed ablation studies.
+            - Implement attention gates and residual connections within the U-Net architecture to better capture intricate tumor boundaries and improve segmentation accuracy, especially for small or complex regions.
+            - Implement weakly supervised methods for analyzing pathology images to predict two-year survival of patients diagnosed with brain tumors.
 
       - role: Research Assistant(with Prof. Bernard Martin)
         time: Jun 2022 - Sep 2022
         Location: University of Michigan
         details: |
-            -Assisted in collecting data and determining performance within constrained movement environments.
-            -Developed a Matlab program to process and analyze EMG signals and filter the noise of EMG data.
-            -Designed and implemented a rehabilitation remote game for stroke patients with adaptable difficulty and real-time evaluation..
-            -Designed and constructed low-cost low fidelity adjustable mock-ups for human subject studies.
-            -Preliminary data presented at the CDHW Symposium in October 2022.
+            - Assisted in collecting data and determining performance within constrained movement environments.
+            - Developed a Matlab program to process and analyze EMG signals and filter the noise of EMG data.
+            - Designed and implemented a rehabilitation remote game for stroke patients with adaptable difficulty and real-time evaluation..
+            - Designed and constructed low-cost low fidelity adjustable mock-ups for human subject studies.
+            - Preliminary data presented at the CDHW Symposium in October 2022.
 
       - role: Research Assistant(with Prof. Nanning Zheng and Xuetao Zhang)
         time: Jun 2021 - Jun 2022
         Location: Xi’an Jaotong University
         details: |
-            -Implemented Graph-based Clustering and k-means++ with a pre-generated anchor graph on Matlab.
-            -Collected and interpreted data, compared against the baseline algorithm in different data sets, and applied regression testing.
-            -Tested the effectiveness of L2 and L1 norms and verified that L21 norms outperformed other norms.
-            -Implemented KNN and PCA algorithms in Python and designed the lab procedure.
-            -Co-published reports on "Robust Landmark Graph-based Clustering for High-Dimensional Data".
+            - Implemented Graph-based Clustering and k-means++ with a pre-generated anchor graph on Matlab.
+            - Collected and interpreted data, compared against the baseline algorithm in different data sets, and applied regression testing.
+            - Tested the effectiveness of L2 and L1 norms and verified that L21 norms outperformed other norms.
+            - Implemented KNN and PCA algorithms in Python and designed the lab procedure.
+            - Co-published reports on "Robust Landmark Graph-based Clustering for High-Dimensional Data".
 
 publications:
     title: Publications
@@ -134,8 +134,8 @@ skills:
       - name: Photography
 
       - name: Volleyball teaching
+      
+      - name: Causal Inference
 
-    
-          - name: Causal Inference
-
-
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
