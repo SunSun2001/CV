@@ -120,15 +120,10 @@ publications:
         conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering,  2019.
 
 skills:
-    title: Skills:
-
-    toolset:
-      - name: Python,C++, Java, Matlab.
-
-      - name: TensorFlow, PyTorch.
-
-      - name: SolidWorks, 3D Max.
-
-      - name: Photography
-
-      - name: Volleyball teaching
+  title: Skills
+  toolset:
+    - name: Python, C++, Java, Matlab
+    - name: TensorFlow, PyTorch
+    - name: SolidWorks, 3D Max
+    - name: Photography
+    - name: Volleyball teaching
