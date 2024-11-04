@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: #'@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -71,13 +71,13 @@ experiences:
         time: Sep 2023 - Present
         Location: Northwestern University
         details: |
-            -Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
-            -Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
-            -Investigate the impact of pre-trained foundational models to the performance when combined with MIL for molecular subtype classification.
-            -Incorporate multi-scale representations of digital path imaging data to enhance the model’s ability to predict molecular subtypes in PAM50 dataset.
-            -Drafted a paper including an in-depth comparison of the proposed method with current state-of-the-art techniques, demonstrating its effectiveness through detailed ablation studies.
-            -Implement attention gates and residual connections within the U-Net architecture to better capture intricate tumor boundaries and improve segmentation accuracy, especially for small or complex regions.
-            -Implement weakly supervised methods for analyzing pathology images to predict two-year survival of patients diagnosed with brain tumors.
+        - Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
+        - Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
+        - Investigate the impact of pre-trained foundational models to the performance when combined with MIL for molecular subtype classification.
+        - Incorporate multi-scale representations of digital path imaging data to enhance the model’s ability to predict molecular subtypes in PAM50 dataset.
+        - Drafted a paper including an in-depth comparison of the proposed method with current state-of-the-art techniques, demonstrating its effectiveness through detailed ablation studies.
+        - Implement attention gates and residual connections within the U-Net architecture to better capture intricate tumor boundaries and improve segmentation accuracy, especially for small or complex regions.
+        - Implement weakly supervised methods for analyzing pathology images to predict two-year survival of patients diagnosed with brain tumors.
 
       - role: Research Assistant(with Prof. Bernard Martin)
         time: Jun 2022 - Sep 2022
@@ -99,94 +99,6 @@ experiences:
             -Implemented KNN and PCA algorithms in Python and designed the lab procedure.
             -Co-published reports on "Robust Landmark Graph-based Clustering for High-Dimensional Data".
 
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -194,42 +106,43 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Investigating Unintended Biases due to Simulated Impairment within Inclusive Mobility Research and Design"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Kamolnat Tabattanon, Aaron Sun, Bernard J., Martin
+        conference: Human Factors and Ergonomics Society, 2023.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Robust Landmark Graph-based Clustering for High Dimensional Data"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Ben Yang, Jinghan Wu, Aoran Sun, Naying Gao, Xuetao Zhang
+        journal: Neurocomputing Journals, 2022.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Design of Virtual Guiding Tasks With Haptic Feedback for Assessing the Wrist Motor Function of Patients  With  Upper Motor Neuron Lesions"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Xiaoyu Liu, Yuanjie Zhu, Hongqiang Huo, Pengxu Wei, Lizhen Wang, Aoran Sun, Chaoyi Hu, Xiaofei Yin, Zeping  Lv, and Yubo Fan
+        journal: IEEE Transactions on Neural Systems and Rehabilitation Engineering,  2019.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python,C, C++, Java, Matlab, Swift.
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: TensorFlow, PyTorch.
 
-      - name: Angular
-        level: 98%
+      - name: SolidWorks, 3D Max.
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Photography
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Volleyball teaching
 
-      - name: Sketch & Photoshop
-        level: 60%
+research interests:
+    title: RESEARCH INTERESTS:
+          - name: Interpretable Machine Learning
+    
+          - name: Machine Learning for healthcare
+    
+          - name: Computer Vision
+    
+          - name: Causal Inference
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
