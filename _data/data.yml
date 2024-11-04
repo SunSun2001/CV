@@ -46,13 +46,13 @@ sidebar:
       title: Interests
       info:
         - item: Basketball
-          link:
+          #link:
 
         - item: Volleyball
-          link:
+          #link:
 
         - item: Photographing
-          link:
+          #link:
 
 education:
     title: Education
@@ -101,10 +101,6 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: "Investigating Unintended Biases due to Simulated Impairment within Inclusive Mobility Research and Design"
         link: "#"
@@ -136,6 +132,3 @@ skills:
       - name: Volleyball teaching
       
       - name: Causal Inference
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
