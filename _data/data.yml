@@ -120,10 +120,10 @@ publications:
         conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering,  2019.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills:
 
     toolset:
-      - name: Python,C, C++, Java, Matlab, Swift.
+      - name: Python,C++, Java, Matlab.
 
       - name: TensorFlow, PyTorch.
 
@@ -132,5 +132,3 @@ skills:
       - name: Photography
 
       - name: Volleyball teaching
-      
-      - name: Causal Inference
