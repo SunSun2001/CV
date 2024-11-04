@@ -63,7 +63,17 @@ education:
       - degree: B.A. in Mathematics and Computer Science
         university: New York University, College of Art and Science, New York, NY.
         time: Sep 2019 - Jun 2023
+skills:
+    title: Research Interests
 
+    toolset:
+      - name: Interpretable Machine Learning
+      - name: Machine Learning for health care
+      - name: Computer Vision
+      - name: Causal Inference
+      - name: AI for Science
+
+      
 experiences:
     title: Research Experiences
     info:
@@ -103,19 +113,19 @@ publications:
     title: Publications
     papers:
       - title: "Investigating Unintended Biases due to Simulated Impairment within Inclusive Mobility Research and Design"
-        link: "#"
+        #link: "#"
         authors: Kamolnat Tabattanon, Aaron Sun, Bernard J., Martin
         conference: Human Factors and Ergonomics Society, 2023.
 
       - title: "Robust Landmark Graph-based Clustering for High Dimensional Data"
-        link: "#"
+        #link: "#"
         authors: Ben Yang, Jinghan Wu, Aoran Sun, Naying Gao, Xuetao Zhang
-        journal: Neurocomputing Journals, 2022.
+        conference: Neurocomputing Journals, 2022.
 
       - title: "Design of Virtual Guiding Tasks With Haptic Feedback for Assessing the Wrist Motor Function of Patients  With  Upper Motor Neuron Lesions"
-        link: "#"
+        #link: "#"
         authors: Xiaoyu Liu, Yuanjie Zhu, Hongqiang Huo, Pengxu Wei, Lizhen Wang, Aoran Sun, Chaoyi Hu, Xiaofei Yin, Zeping  Lv, and Yubo Fan
-        journal: IEEE Transactions on Neural Systems and Rehabilitation Engineering,  2019.
+        conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering,  2019.
 
 skills:
     title: Skills &amp; Proficiency
