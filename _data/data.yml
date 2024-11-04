@@ -43,16 +43,18 @@ sidebar:
           level: Professional
 
     interests:
-      title: Interests
+      title: Research Interests
       info:
-        - item: Basketball
+        - item: Interpretable Machine Learning
           #link:
 
-        - item: Volleyball
+        - item: Machine Learning for health care
           #link:
 
-        - item: Photographing
+        - item: Causal Inference
           #link:
+
+        - item: Computer Vision
 
 education:
     title: Education
@@ -63,16 +65,6 @@ education:
       - degree: B.A. in Mathematics and Computer Science
         university: New York University, College of Art and Science, New York, NY.
         time: Sep 2019 - Jun 2023
-skills:
-    title: Research Interests
-
-    toolset:
-      - name: Interpretable Machine Learning
-      - name: Machine Learning for health care
-      - name: Computer Vision
-      - name: Causal Inference
-      - name: AI for Science
-
       
 experiences:
     title: Research Experiences
