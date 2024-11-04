@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Aoran Sun
+    tagline: M.S CE
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: aoransun2025@u.northwestern.edu
+    phone: 6467240711
+    timezone: America/Center # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: #alandoe
+    xing: #alandoe
+    github: SunSun2001
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,102 +36,69 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Basketball
           link:
 
-        - item: Snowboarding
+        - item: Volleyball
           link:
 
-        - item: Cooking
+        - item: Photographing
           link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: M.S. in Computer Engineering
+        university: Northwestern University, McCormick School of Engineering, Evanston,IL.
+        time: Sep 2023 - Jun 2025
+      - degree: B.A. in Mathematics and Computer Science
+        university: New York University, College of Art and Science, New York, NY.
+        time: Sep 2019 - Jun 2023
 
 experiences:
-    title: Experiences
+    title: Research Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant(with Prof. Lee Cooper)
+        time: Sep 2023 - Present
+        Location: Northwestern University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            -Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
+            -Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
+            -Investigate the impact of pre-trained foundational models to the performance when combined with MIL for molecular subtype classification.
+            -Incorporate multi-scale representations of digital path imaging data to enhance the model’s ability to predict molecular subtypes in PAM50 dataset.
+            -Drafted a paper including an in-depth comparison of the proposed method with current state-of-the-art techniques, demonstrating its effectiveness through detailed ablation studies.
+            -Implement attention gates and residual connections within the U-Net architecture to better capture intricate tumor boundaries and improve segmentation accuracy, especially for small or complex regions.
+            -Implement weakly supervised methods for analyzing pathology images to predict two-year survival of patients diagnosed with brain tumors.
+
+      - role: Research Assistant(with Prof. Bernard Martin)
+        time: Jun 2022 - Sep 2022
+        Location: University of Michigan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            -Assisted in collecting data and determining performance within constrained movement environments.
+            -Developed a Matlab program to process and analyze EMG signals and filter the noise of EMG data.
+            -Designed and implemented a rehabilitation remote game for stroke patients with adaptable difficulty and real-time evaluation..
+            -Designed and constructed low-cost low fidelity adjustable mock-ups for human subject studies.
+            -Preliminary data presented at the CDHW Symposium in October 2022.
+
+      - role: Research Assistant(with Prof. Nanning Zheng and Xuetao Zhang)
+        time: Jun 2021 - Jun 2022
+        Location: Xi’an Jaotong University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            -Implemented Graph-based Clustering and k-means++ with a pre-generated anchor graph on Matlab.
+            -Collected and interpreted data, compared against the baseline algorithm in different data sets, and applied regression testing.
+            -Tested the effectiveness of L2 and L1 norms and verified that L21 norms outperformed other norms.
+            -Implemented KNN and PCA algorithms in Python and designed the lab procedure.
+            -Co-published reports on "Robust Landmark Graph-based Clustering for High-Dimensional Data".
+
 
 certifications:
       title: Certifications
