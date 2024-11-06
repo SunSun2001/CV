@@ -71,7 +71,7 @@ experiences:
     info:
       - role: Research Assistant(with Prof. Lee Cooper)
         time: Sep 2023 - Present
-        Location: Northwestern University
+        company: Northwestern University
         details: |
             - Utilize Multi-Instance learning techniques in digital pathology for prostate cancer molecular subtype classification, potentially improving accuracy and robustness of the model's predictions.
             - Introduce supervised End-to-end model for the tile-level features to improve the performance of the MIL model in the PAM50 dataset.
@@ -83,7 +83,7 @@ experiences:
 
       - role: Research Assistant(with Prof. Bernard Martin)
         time: Jun 2022 - Sep 2022
-        Location: University of Michigan
+        company: University of Michigan
         details: |
             - Assisted in collecting data and determining performance within constrained movement environments.
             - Developed a Matlab program to process and analyze EMG signals and filter the noise of EMG data.
@@ -93,7 +93,7 @@ experiences:
 
       - role: Research Assistant(with Prof. Nanning Zheng and Xuetao Zhang)
         time: Jun 2021 - Jun 2022
-        Location: Xi’an Jaotong University
+        company: Xi’an Jaotong University
         details: |
             - Implemented Graph-based Clustering and k-means++ with a pre-generated anchor graph on Matlab.
             - Collected and interpreted data, compared against the baseline algorithm in different data sets, and applied regression testing.
