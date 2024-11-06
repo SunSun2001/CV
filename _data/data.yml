@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Aoran Sun
-    tagline: M.S CE
+    tagline: #M.S CE
     avatar: 头像.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -20,7 +20,7 @@ sidebar:
     website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: #alandoe
     xing: #alandoe
-    github: SunSun2001
+    github: #SunSun2001
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -41,20 +41,6 @@ sidebar:
 
         - idiom: English
           level: Professional
-
-    interests:
-      title: Research Interests
-      info:
-        - item: Interpretable Machine Learning
-          #link:
-
-        - item: Machine Learning for health care
-          #link:
-
-        - item: Causal Inference
-          #link:
-
-        - item: Computer Vision
 
 education:
     title: Education
